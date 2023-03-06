@@ -59,4 +59,4 @@ function divisibleByOneHundred(x){ //Compruebo si divisible por 100 cuando tambi
 
 
 
-isLeapYear(2001, 2400) //Llamo a la funcion
+isLeapYear(2001, 2400) //Llamo a la funcion y le agrego años de ejemplo
